@@ -36,5 +36,4 @@ class IPLocationFinder:
 
 if __name__== "__main__":
     ipLoc = IPLocationFinder()
-    # ipLoc.startApp("172.217.10.14")
-    ipLoc.startApp("2605:6001:e15b:9500:f0b2:fa0f:7536:82f")
+    ipLoc.startApp("172.217.10.14")
